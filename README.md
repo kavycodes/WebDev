@@ -14,7 +14,7 @@ This repository contains my **Web Development learning journey**, including HTML
 - Forms
 - Semantic HTML
 - Multimedia
-- HTML Projects
+- HTML Projects 
 
 ### CSS
 - CSS Basics
