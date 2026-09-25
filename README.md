@@ -20,7 +20,7 @@ This repository contains my **Web Development learning journey**, including HTML
 - CSS Basics
 - Selectors
 - Colors and Backgrounds
-- Fonts and Text
+- Fonts and Text 
 - Box Model
 - Display
 - Position
